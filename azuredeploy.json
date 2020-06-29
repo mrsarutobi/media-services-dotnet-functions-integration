@@ -53,37 +53,37 @@
     },
     "mediaServicesAccountRestApiEndpoint": {
       "type": "string",
-      "defaultValue": "Example: https://accountname.restv2.region.media.azure.net/api/",
+      "defaultValue": "https://testraydramedia.restv2.westus2-2.media.azure.net/api/",
       "metadata": {
         "description": "https://testraydramedia.restv2.westus2-2.media.azure.net/api/"
       }
     },
     "mediaServicesAccountServicePrincipalClientId": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "d9f7f3b9-4111-46c8-816b-945ca8f31e20",
       "metadata": {
-        "description": "d9f7f3b9-4111-46c8-816b-945ca8f31e20"
+        "description": ""
       }
     },
     "mediaServicesAccountServicePrincipalClientSecret": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "yaD6E_VqBsmV9-hFrktu.9le-4LtU1iB~5",
       "metadata": {
-        "description": "yaD6E_VqBsmV9-hFrktu.9le-4LtU1iB~5"
+        "description": ""
       }
     },
     "mediaServicesStorageAccountName": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "testraydrastore",
       "metadata": {
-        "description": "testraydrastore"
+        "description": ""
       }
     },
     "mediaServicesStorageAccountKey": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "N05ULwtMZ/jbPnfniXP76EMtwmqV7g+KScxP02gn8/nK/oUgoFpQ6KPH8bLi7bU426awsZaOCa3v816Kk1E16A==",
       "metadata": {
-        "description": "N05ULwtMZ/jbPnfniXP76EMtwmqV7g+KScxP02gn8/nK/oUgoFpQ6KPH8bLi7bU426awsZaOCa3v816Kk1E16A=="
+        "description": ""
       }
     }
   },
